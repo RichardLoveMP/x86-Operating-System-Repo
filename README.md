@@ -33,6 +33,10 @@ The structure of this project is listed:
    2. Scheduling
 6. Sound Driver
 
+#### Language Using:
+
+C++/C
+Assembly x86
 
 
 #### Kernel Statics:
