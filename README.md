@@ -5,7 +5,7 @@ Operating System Construction with Intel 8086 Architecture
 
 ***Time: Dec 10th 2019***
 
-####Project Overview:
+#### Project Overview:
 
 Design a core on af operating system from setting the interrupt descriptor table (IDT) to scheduling. 
 
